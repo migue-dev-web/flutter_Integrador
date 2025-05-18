@@ -1,5 +1,6 @@
 # Miscellaneous
 *.class
+<<<<<<< HEAD
 *.log
 *.pyc
 *.swp
@@ -21,12 +22,14 @@ migrate_working_dir/
 .buildlog/
 .history
 
+<<<<<<< HEAD
 #firebase
 android/app/google-services.json
 firebase.json
 lib/firebase_options.dart
 replace.txt
 firebase_options.dart
+
 
 
 # Flutter repo-specific
@@ -76,11 +79,13 @@ unlinked_spec.ds
 **/android/**/GeneratedPluginRegistrant.java
 **/android/key.properties
 *.jks
+<<<<<<< HEAD
 android/.gradle/
 android/captures/
 android/app/build/
 *.iml
 *.keystore
+
 
 # iOS/XCode related
 **/ios/**/*.mode1v3
@@ -141,6 +146,7 @@ app.*.symbols
 !**/ios/**/default.pbxuser
 !**/ios/**/default.perspectivev3
 !/packages/flutter_tools/test/data/dart_dependencies_test/**/.packages
+<<<<<<< HEAD
 !/dev/ci/**/Gemfile.lock
 
 # IntelliJ related
@@ -174,3 +180,5 @@ app.*.map.json
 /android/app/debug
 /android/app/profile
 /android/app/release
+=======
+!/dev/ci/**/Gemfile.lock
